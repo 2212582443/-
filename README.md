@@ -10,6 +10,3 @@
 * [CS2306：计算机系统结构实验](#CS2306)
 * [CS2307：计算机组成](#CS2307)
 
-<a name="CS2301"></a>
-### CS2301 - 编译原理
-* [@david990917, 2020 Spring](https://github.com/david990917/CPP-PROGRAMMING)
